@@ -30,7 +30,7 @@ $(document).ready(function (e) {
 
 <header>
 	<h1>Jurnalweb.com</h1>
-	<p><a href="http://www.jurnalweb.com/tutorial-cara-upload-gambar-dengan-ajax-dan-php-jquery">Back to tutorial</a></p>
+	<p><a href="http://www.jurnalweb.com/tutorial-cara-upload-foto-dengan-ajax-dan-php-jquery">Back to tutorial</a></p>
 </header>
 
 <div class="container">
